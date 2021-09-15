@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Auth App Firebase</string>
+    <string name="nomeApp">Auth Firebase</string>
+    <string name="emailText">Email</string>
+    <string name="senhaText">Senha</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="register">Registrar-se</string>
+    <string name="forgotPassword">Esqueceu a senha?</string>
+    <string name="nomeCompleto">Nome completo</string>
+    <string name="idade">Idade</string>
+    <string name="email">Email</string>
+    <string name="senha"></string>
+</resources>
